@@ -1,5 +1,8 @@
-# Standartization
+# Standardization
 This repository is used a collaborative for projects run by the Standardization team
+
+## Definition
+*Standardization* is the process of implementing and developing technical standards. Standardization can help to maximize compatibility, interoperability, safety, repeatability, or quality. It can also facilitate commoditization of formerly custom processes.
 
 ## Projects (in random order)
 * shellfoundry <https://github.com/QualiSystems/shellfoundry>
