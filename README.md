@@ -9,9 +9,9 @@ This repository is used a collaborative for projects run by the Standartization 
 * devguide <https://github.com/QualiSystems/devguide>
  
 ## Team (in alphabetecal order)
-* Meni Besso [@menib](https://github.com/QualiSystems/menib)
-* Roni Dover [@doppleware](https://github.com/QualiSystems/doppleware)
-* Boris Modylevsky [@borismod](https://github.com/QualiSystems/borismod)
+* Meni Besso [@menib](https://github.com/menib)
+* Roni Dover [@doppleware](https://github.com/doppleware)
+* Boris Modylevsky [@borismod](https://github.com/borismod)
  
 ## Board
 Team board is here <https://waffle.io/QualiSystems/Standartization>
