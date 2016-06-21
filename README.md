@@ -1,5 +1,5 @@
 # Standartization
-This repository is used a collaborative for projects run by the Standartization team
+This repository is used a collaborative for projects run by the Standardization team
 
 ## Projects (in random order)
 * shellfoundry <https://github.com/QualiSystems/shellfoundry>
@@ -14,9 +14,9 @@ This repository is used a collaborative for projects run by the Standartization 
 * Boris Modylevsky [@borismod](https://github.com/borismod)
  
 ## Board
-Team board is here <https://waffle.io/QualiSystems/Standartization>
+Team board is here <https://waffle.io/QualiSystems/Standardization>
 
 ## Throughput Graph
-[![Throughput Graph](https://graphs.waffle.io/QualiSystems/Standartization/throughput.svg)](https://waffle.io/QualiSystems/Standartization/metrics/throughput) 
+[![Throughput Graph](https://graphs.waffle.io/QualiSystems/Standardization/throughput.svg)](https://waffle.io/QualiSystems/Standardization/metrics/throughput) 
 
  
