@@ -8,7 +8,7 @@ This repository is used a collaborative for projects run by the Standardization 
 * Toscana <https://github.com/QualiSystems/Toscana>
 * devguide <https://github.com/QualiSystems/devguide>
  
-## Team (in alphabetecal order)
+## Team (in alphabetical order)
 * Meni Besso [@menib](https://github.com/menib)
 * Roni Dover [@doppleware](https://github.com/doppleware)
 * Boris Modylevsky [@borismod](https://github.com/borismod)
